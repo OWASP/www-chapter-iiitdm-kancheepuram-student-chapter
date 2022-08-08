@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Sanjeet Kumar Nayak](mailto:sanjeetkumar.nayak@owasp.org)
+* [Rohit Kumar N K](mailto:rohit.kumarnk@owasp.org)
