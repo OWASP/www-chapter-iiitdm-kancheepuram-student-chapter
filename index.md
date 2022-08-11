@@ -27,7 +27,8 @@ We strongly encourage interested personals to speak at our student chapter on an
 
 Please review and agree with the [OWASP SPEAKER AGGREMENT](https://owasp.org/www-policy/legal/speaker-agreement). Then send a detailed mail about Proposed Session Title, Abstract, Resources needed and Speakers Bio to [OWASP IIITDMK](mailto:rohit.kumarnk@owasp.org) 
 
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
+Next Meeting/Event 
 ---------------------
+`Will be announced soon!`
 {% include chapter_events.html group=page.meetup-group %}
 
