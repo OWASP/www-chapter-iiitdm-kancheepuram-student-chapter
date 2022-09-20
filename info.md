@@ -1,5 +1,5 @@
 ### IIITDM Kancheepuram Student Chapter Information
 
-* [Meetup](#)
+* [Meetup](https://www.meetup.com/owasp-iiitdmk-student-chapter/)
 
 
