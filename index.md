@@ -5,7 +5,7 @@ title: OWASP IIITDM Kancheepuram Student Chapter
 tags: IIITDMK OWASP Student Chapter
 region: Asia
 country: India
-meetup-group:
+meetup-group: owasp-iiitdmk-student-chapter
 
 ---
 
