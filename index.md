@@ -29,6 +29,7 @@ Please review and agree with the [OWASP SPEAKER AGGREMENT](https://owasp.org/www
 
 Next Meeting/Event 
 ---------------------
-`Will be announced soon!`
-{% include chapter_events.html group=page.meetup-group %}
+Meetup Talk by [Manas Harsh](https://www.linkedin.com/in/manasharsh?originalSubdomain=in)
+Topic: OWASP & Web Application Security
+Date and Time : 24 Sept 2022 - 6:00 pm 
 
