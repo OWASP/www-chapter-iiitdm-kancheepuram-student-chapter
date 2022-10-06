@@ -29,7 +29,7 @@ Please review and agree with the [OWASP SPEAKER AGGREMENT](https://owasp.org/www
 
 Next Meeting/Event 
 ---------------------
-Meetup Talk by [Manas Harsh](https://www.linkedin.com/in/manasharsh?originalSubdomain=in)<br>
-Topic: OWASP & Web Application Security<br>
-Date and Time : 24 Sept 2022 - 6:00 pm <br>
+Meetup Talk by [Manal Swami](https://www.linkedin.com/in/manal-swami/)<br>
+Topic: **Introduction to Cybersecurity**<br>
+Date and Time : 8 Oct 2022 - 11:00 am <br>
 
