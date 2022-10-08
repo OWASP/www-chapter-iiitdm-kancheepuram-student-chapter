@@ -33,3 +33,6 @@ Meetup Talk by [Manal Swami](https://www.linkedin.com/in/manal-swami/)<br>
 Topic: **Introduction to Cybersecurity**<br>
 Date and Time : 8 Oct 2022 - 11:00 am <br>
 
+![Poster](https://user-images.githubusercontent.com/73820496/194689037-fc3765e3-2846-494b-a123-ba0bb9f8e49b.jpeg)
+
+
