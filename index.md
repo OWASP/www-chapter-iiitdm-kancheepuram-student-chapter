@@ -29,14 +29,16 @@ Please review and agree with the [OWASP SPEAKER AGGREMENT](https://owasp.org/www
 
 Next Meeting/Event 
 ---------------------
-Offline Session<br>
+**Session 2: Offline**<br>
 Topic: **Introduction to Ethical Hacking**<br>
 Date and Time : **18 Jan 2023 - 06:30 pm - 07:30 pm**<br>
 Venue: **H04, Academics Block, IIITDM Kancheepuram**<br>
+Presentation: [Link](https://docs.google.com/presentation/d/1xCZywia-Plk87jG_8GdANutV5nV3_hM4/edit?usp=share_link&ouid=102136184034134134948&rtpof=true&sd=true)<br>
 
 <img src="https://user-images.githubusercontent.com/73820496/212710844-678e79af-2ad8-447c-bb36-9fa6cc7f1ef9.png" title="Poster" width="20%" height="20%"><br>
 
-
+<br>
+**Session 1: Online**<br>
 Meetup Talk by [Manal Swami](https://www.linkedin.com/in/manal-swami/)<br>
 Topic: **Introduction to Cybersecurity**<br>
 Date and Time : **8 Oct 2022 - 11:00 am - 12:30 pm** <br>
