@@ -29,11 +29,21 @@ Please review and agree with the [OWASP SPEAKER AGGREMENT](https://owasp.org/www
 
 Next Meeting/Event 
 ---------------------
+**Session 3: Offline**<br>
+Topic: **Introduction 0010 CTF**<br>
+Date and Time : **30 Jan 2023 - 06:00 pm - 07:00 pm**<br>
+Venue: **H02, Academics Block, IIITDM Kancheepuram**<br>
+Presentation: [Link](https://docs.google.com/presentation/d/1cErEgCCDNtn2CnlUYOY3uW04p2CS-03x/edit?usp=sharing&ouid=102136184034134134948&rtpof=true&sd=true)<br>
+
+<img src ="https://user-images.githubusercontent.com/73820496/215539587-e2f60dbe-092b-4f8b-ae3d-21e9510d7087.png" title="Poster" width="20%" height="20%"><br>
+
+<br>
 **Session 2: Offline**<br>
 Topic: **Introduction to Ethical Hacking**<br>
 Date and Time : **18 Jan 2023 - 06:30 pm - 07:30 pm**<br>
 Venue: **H04, Academics Block, IIITDM Kancheepuram**<br>
-Presentation: [Link](https://docs.google.com/presentation/d/1xCZywia-Plk87jG_8GdANutV5nV3_hM4/edit?usp=share_link&ouid=102136184034134134948&rtpof=true&sd=true)<br>
+Presentation: [Link](https://docs.google.com/presentation/d/1xCZywia-Plk87jG_8GdANutV5nV3_hM4/edit?usp=share_link&ouid=102136184034134134948&rtpof=true&sd=true)
+<br>
 
 <img src="https://user-images.githubusercontent.com/73820496/212710844-678e79af-2ad8-447c-bb36-9fa6cc7f1ef9.png" title="Poster" width="20%" height="20%"><br>
 
@@ -42,7 +52,8 @@ Presentation: [Link](https://docs.google.com/presentation/d/1xCZywia-Plk87jG_8Gd
 Meetup Talk by [Manal Swami](https://www.linkedin.com/in/manal-swami/)<br>
 Topic: **Introduction to Cybersecurity**<br>
 Date and Time : **8 Oct 2022 - 11:00 am - 12:30 pm** <br>
-Recording of the Meeting - [Link](https://drive.google.com/file/d/1A_flcGMN8yNzk_t5xr9Auu7CuFQBuMwQ/view?usp=sharing)<br>
+Recording of the Meeting - [Link](https://drive.google.com/file/d/1A_flcGMN8yNzk_t5xr9Auu7CuFQBuMwQ/view?usp=sharing)
+<br>
 
 <img src="https://user-images.githubusercontent.com/73820496/194689037-fc3765e3-2846-494b-a123-ba0bb9f8e49b.jpeg" title="Poster" width="20%" height="20%">
 
