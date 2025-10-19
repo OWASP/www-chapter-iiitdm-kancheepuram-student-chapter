@@ -1,0 +1,25 @@
+leaders:
+  - name: Sanjeet Kumar Nayak
+    email: sanjeetkumar.nayak@owasp.org
+  - name: Rohit Kumar N K
+    email: rohit.kumarnk@owasp.org
+    github: R0h1t3
+location:
+  country: India
+  country_code: IN
+  region: Tamil Nadu
+  city: Kancheepuram
+  latitude: 12.87960515
+  longitude: 79.70427615297989
+meetup_group: owasp-iiitdmk-student-chapter
+name: OWASP IIITDM Kancheepuram Student Chapter
+repositories:
+  - name: www-chapter-iiitdm-kancheepuram-student-chapter
+    url: https://github.com/OWASP/www-chapter-iiitdm-kancheepuram-student-chapter
+    description: OWASP Foundation Web Repository
+tags:
+  - IIITDMK
+  - OWASP
+  - Student
+  - Chapter
+website: https://owasp.org/www-chapter-iiitdm-kancheepuram-student-chapter
